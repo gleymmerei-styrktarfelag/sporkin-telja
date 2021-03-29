@@ -173,7 +173,7 @@ hr {
   display: inline-block;
   padding-left: 0.5em;
   text-decoration: none;
-  transition: transform 300ms ease-out;
+  transition: transform 200ms ease-in-out;
 }
 
 .link:hover {
@@ -181,7 +181,7 @@ hr {
 }
 
 .link:hover::after {
-  transform: translateX(-10%);
+  transform: translateX(5px);
 }
 
 .visually-hidden {
@@ -191,19 +191,6 @@ hr {
   overflow: hidden;
   clip: rect(1px 1px 1px 1px);
   clip: rect(1px, 1px, 1px, 1px);
-}
-
-.c-label {
-  @apply block font-bold;
-}
-
-.c-field {
-  @apply block w-full px-3 py-4;
-  @apply border border-solid border-gray-500 rounded bg-white;
-
-  color: inherit;
-  font-size: inherit;
-  font-family: inherit;
 }
 
 .btn {
@@ -221,27 +208,15 @@ hr {
   transition: color 200ms ease-out, border-color 250ms ease-out;
 }
 
-.btn-bare {
-  @apply p-0 border-0 rounded-none;
-}
-
-.btn-block {
-  width: 100%;
-}
-
-.btn-small {
-  @apply px-4 py-1 text-sm;
-}
-
-.btn-large {
-  @apply px-6 py-3 text-2xl;
-}
-
 .btn-primary {
   @apply text-blue-500 bg-transparent border-blue-500;
 }
 
 .btn-primary:hover {
   @apply text-blue-800 no-underline border-blue-800;
+}
+
+.inteview + .interview {
+  @apply mt-24;
 }
 </style>

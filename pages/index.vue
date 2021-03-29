@@ -56,7 +56,7 @@
         <article class="grid md:grid-cols-2 gap-8">
           <div class="embed-container">
             <iframe
-              src="https://www.youtube.com/embed/TCCaAC2vZtA?rel=0"
+              src="https://youtu.be/J7m8FMeQHMc"
               frameborder="0"
               allow="autoplay; encrypted-media"
               allowfullscreen
@@ -64,7 +64,7 @@
           </div>
           <div>
             <small class="uppercase">Viðtal</small>
-            <h4 class="my-2">Something awesome here</h4>
+            <h4 class="my-2">Headline one</h4>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam
               ducimus odit ex laboriosam magnam dolorem quam ipsum? Voluptatem,
@@ -72,11 +72,12 @@
             </p>
           </div>
         </article>
-        <article class="grid pt-24">
+
+        <article class="grid pt-24 gap-8">
           <div class="grid md:grid-cols-2 gap-8">
             <div class="embed-container">
               <iframe
-                src="https://www.youtube.com/embed/TCCaAC2vZtA?rel=0"
+                src="https://youtu.be/J7m8FMeQHMc"
                 frameborder="0"
                 allow="autoplay; encrypted-media"
                 allowfullscreen
@@ -84,7 +85,7 @@
             </div>
             <div>
               <small class="uppercase">Viðtal</small>
-              <h4 class="my-2">Something awesome here</h4>
+              <h4 class="my-2">Headline two</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam
                 ducimus odit ex laboriosam magnam dolorem quam ipsum?
@@ -97,7 +98,3 @@
     </div>
   </main>
 </template>
-
-<script>
-export default {}
-</script>
