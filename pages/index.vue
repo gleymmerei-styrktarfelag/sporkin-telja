@@ -56,7 +56,7 @@
         <article class="grid md:grid-cols-2 gap-8">
           <div class="embed-container">
             <iframe
-              src="https://youtu.be/J7m8FMeQHMc"
+              src="https://www.youtube.com/embed/J7m8FMeQHMc"
               frameborder="0"
               allow="autoplay; encrypted-media"
               allowfullscreen
@@ -77,7 +77,7 @@
           <div class="grid md:grid-cols-2 gap-8">
             <div class="embed-container">
               <iframe
-                src="https://youtu.be/J7m8FMeQHMc"
+                src="https://www.youtube.com/embed/J7m8FMeQHMc"
                 frameborder="0"
                 allow="autoplay; encrypted-media"
                 allowfullscreen
