@@ -1,0 +1,35 @@
+/*----------------------------------------*\
+  FONT FACE
+\*----------------------------------------*/
+
+@font-face {
+  font-family: 'walsheim';
+  font-weight: normal;
+  font-style: normal;
+  src: url('~/fonts/GT-Walsheim-Regular.woff2') format('woff2'),
+       url('~/fonts/GT-Walsheim-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'walsheim';
+  font-weight: bold;
+  font-style: normal;
+  src: url('~/fonts/GT-Walsheim-Bold.woff2') format('woff2'),
+       url('~/fonts/GT-Walsheim-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'walsheim';
+  font-weight: normal;
+  font-style: italic;
+  src: url('~/fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'),
+       url('~/fonts/GT-Walsheim-Regular-Oblique.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'walsheim';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/GT-Walsheim-Bold-Oblique.woff2') format('woff2'),
+       url('../fonts/GT-Walsheim-Bold-Oblique.woff') format('woff');
+}

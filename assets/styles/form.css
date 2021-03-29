@@ -1,0 +1,17 @@
+/*----------------------------------------*\
+  FORM
+\*----------------------------------------*/
+
+.c-label {
+  @apply .block .font-bold;
+}
+
+.c-field {
+  @apply .block .w-full .px-3 .py-4;
+
+  color: inherit;
+  font-size: inherit;
+  font-family: inherit;
+
+  @apply .border .border-solid .border-grey .rounded .bg-white
+}

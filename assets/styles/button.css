@@ -1,0 +1,43 @@
+/*----------------------------------------*\
+  BUTTON
+\*----------------------------------------*/
+
+.btn {
+  @apply inline-block px-6 py-2;
+  @apply font-sans font-normal no-underline antialiased text-center whitespace-no-wrap;
+  @apply border rounded-sm;
+
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  vertical-align: middle;
+  line-height: inherit;
+
+  cursor: pointer;
+  transition: color 200ms ease-out, border-color 250ms ease-out;
+}
+
+.btn-bare {
+  @apply p-0 border-0 rounded-none
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.btn-small {
+  @apply px-4 py-1 text-sm;
+}
+
+.btn-large {
+  @apply px-6 py-3 text-2xl;
+}
+
+.btn-primary {
+  @apply text-blue bg-transparent;
+}
+
+.btn-primary:hover {
+  @apply text-blue-dark no-underline border-blue-dark
+}
