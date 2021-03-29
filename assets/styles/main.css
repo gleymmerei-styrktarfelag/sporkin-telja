@@ -1,17 +1,13 @@
-/*----------------------------------------*\
-  MAIN.CSS
-\*----------------------------------------*/
+@import "tailwindcss/preflight";
 
-@import 'tailwindcss/preflight';
+/* @import "fontface.css"; */
+/* @import 'base.css'; */
+/* @import "form.css"; */
+/* @import 'objects.css'; */
 
-@import 'fontface.css';
-@import 'base.css';
-@import 'form.css';
-@import 'objects.css';
+/* @import "button.css"; */
 
-@import 'button.css';
+/* @import 'header.css'; */
 
-@import 'header.css';
-
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";

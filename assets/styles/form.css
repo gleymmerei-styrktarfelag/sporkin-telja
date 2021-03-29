@@ -8,10 +8,9 @@
 
 .c-field {
   @apply .block .w-full .px-3 .py-4;
+  @apply .border .border-solid .border-gray-500 .rounded .bg-white;
 
   color: inherit;
   font-size: inherit;
   font-family: inherit;
-
-  @apply .border .border-solid .border-grey .rounded .bg-white
 }
