@@ -4,6 +4,7 @@
       <div class="header-layout flex flex-col justify-between">
         <div class="flex items-center justify-between">
           <h1 class="text-blue-500 text-3xl m-0">
+            <!-- TODO: translante -->
             <span class="visually-hidden">Spörkin telja</span>
             <img
               class="block"
@@ -13,42 +14,7 @@
             />
           </h1>
 
-          <nav class="flex-grow">
-            <!-- <ul class="list-reset flex md:pl-6">
-              <li class="px-2">
-                <a
-                  class="px-1 text-black uppercase bg-base-500 hover:no-underline"
-                  href="#"
-                >
-                  Um okkur
-                </a>
-              </li>
-              <li class="px-2">
-                <a
-                  class="px-1 text-black uppercase bg-base-500 hover:no-underline"
-                  href="#"
-                >
-                  Fræðsla
-                </a>
-              </li>
-              <li class="px-2">
-                <a
-                  class="px-1 text-black uppercase bg-base-500 hover:no-underline"
-                  href="#"
-                >
-                  Sögur
-                </a>
-              </li>
-              <li class="px-2">
-                <a
-                  class="px-1 text-black uppercase bg-base-500 hover:no-underline"
-                  href="#"
-                >
-                  Styrkja okkur
-                </a>
-              </li>
-            </ul> -->
-          </nav>
+          <nav-lang class="flex-grow" />
 
           <div>
             <img src="gleymmerei.png" width="50" alt="Gleim mér ei" />
@@ -56,26 +22,27 @@
         </div>
 
         <div>
-          <h2 class="text-black leading-none font-normal mt-64">
-            Þekktu hreyfingar<br />
-            barnsins þíns
-          </h2>
-          <button class="btn btn-primary bg-base-500">Horfa á myndskeið</button>
+          <h2
+            class="text-black leading-none font-normal mt-32"
+            v-html="$t('intro')"
+          />
+          <!-- TODO: translante -->
+          <!-- <button class="btn btn-primary bg-base-500">Horfa á myndskeið</button> -->
         </div>
-
-        <div class="pb-8 mt-8 md:mt-64">
-          <p>
-            <strong>15.október</strong> er alþjóðlegur dagur<br />
-            barnsmissis á meðgöngu
-          </p>
-        </div>
+        <div>&nbsp;</div>
       </div>
     </div>
   </header>
 </template>
 
 <script>
-export default {}
+import NavLang from '@/components/NavLang.vue'
+
+export default {
+  components: {
+    NavLang,
+  },
+}
 </script>
 
 <style scoped>

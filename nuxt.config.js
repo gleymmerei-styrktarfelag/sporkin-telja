@@ -39,6 +39,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    'nuxt-i18n',
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
@@ -46,4 +47,37 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+
+  i18n: {
+    locales: [
+      {
+        code: 'is',
+        iso: 'is-IS',
+        file: 'is.json',
+        name: 'Íslenska',
+      },
+      {
+        code: 'en',
+        iso: 'en-US',
+        file: 'en.json',
+        name: 'English',
+      },
+      {
+        code: 'pl',
+        iso: 'pl-PL',
+        file: 'pl.json',
+        name: 'Français',
+      },
+    ],
+    defaultLocale: 'is',
+    noPrefixDefaultLocale: true,
+    vueI18n: {
+      fallbackLocale: 'is',
+      messages: {
+        is: require('./locales/is.json'),
+        en: require('./locales/en.json'),
+        pl: require('./locales/pl.json'),
+      }
+    }
+  }
 }
