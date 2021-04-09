@@ -1,4 +1,7 @@
 {
   "intro": "Þekktu hreyfingar </br> barnsins þíns",
-  "social": "Samfélagsmiðlar"
+  "social": "Samfélagsmiðlar",
+  "button": {
+    "more": "Fleiri upplýsingar"
+  }
 }

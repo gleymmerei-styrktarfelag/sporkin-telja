@@ -1,4 +1,7 @@
 {
   "intro": "Know your baby's </br> movements",
-  "social": "Social media"
+  "social": "Social media",
+  "button": {
+    "more": "More informations"
+  }
 }

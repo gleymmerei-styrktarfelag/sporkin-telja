@@ -1,10 +1,15 @@
 ---
-description: Hversu mikið á barnið að hreyfa sig?
-hero: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum soluta ipsa quibusdam.
+title: Hvernig hreyfir barnið sig?
+brochure: sporkintelja.pdf
 ---
+Frá 18-24 vikum finna konur sífellt meira fyrir hreyfingum barnsins og þær verða kröftugri upp að 32 vikum, en eftir það haldast þær svipaðar út meðgönguna.
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum soluta ipsa quibusdam.
+Hreyfingar barnsins eru besta merkið um að barninu þínu líði vel. Hvert barn er einstakt og því er mikilvægt fyrir þig að þekkja
+hvað er eðlilegt fyrir barnið þitt þegar kemur að tíðni og mynstri hreyfinga.
+Barnið þitt á að halda áfram að hreyfa sig reglulega út meðgönguna.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nobis vero illum dolorem doloremque a aut ipsam voluptates accusantium libero.
+Konur heyra stundum að hreyfingar barna minnki í lok meðgöngu en það er EKKI tilfellið.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Hins vegar breytist skynjun fósturhreyfinga þegar dregur nær settum degi. Barnið færist neðar í grindina og skorðar sig sem veldur því að tilfinningin fyrir hreyfingum verður önnur. Barnið tekur meira pláss með aukinni stærð og getur því ekki hreyft útlimi eins mikið.
+
+Eftir því sem fæðingin nálgast eykst vöðvatónus í leginu sem leiðir til þess að hreyfingar finnast ekki eins vel.

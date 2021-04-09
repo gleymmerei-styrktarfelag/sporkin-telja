@@ -7,7 +7,7 @@
             <h2 class="visually-hidden">Um okkur</h2>
           </div>
           <div class="col-span-2 text-xl text-blue-500 font-bold md:text-3xl">
-            {{ intro.hero }}
+            <nuxt-content :document="hero" />
           </div>
         </div>
       </article>
@@ -15,10 +15,13 @@
       <article class="mt-12 md:mt-24">
         <div class="grid gap-8 md:grid-cols-3">
           <h2 class="uppercase text-blue text-sm mt-2">
-            {{ intro.description }}
+            {{ intro.title }}
           </h2>
-          <div class="col-span-2 text-xl md:text-2xl">
-            <nuxt-content :document="intro" />
+          <div class="col-span-2">
+            <nuxt-content class="text-xl md:text-2xl" :document="intro" />
+            <a class="btn btn-primary mt-6" :href="intro.brochure">
+              {{ $t('button.more') }}
+            </a>
           </div>
         </div>
       </article>
@@ -45,9 +48,11 @@ export default {
     const articles = await $content(`${app.i18n.locale}/articles`).fetch()
     const about = await $content(`${app.i18n.locale}/about`).fetch()
     const intro = await $content(`${app.i18n.locale}/intro`).fetch()
+    const hero = await $content(`${app.i18n.locale}/hero`).fetch()
 
     return {
       intro,
+      hero,
       articles,
       about,
     }
