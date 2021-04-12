@@ -6,7 +6,7 @@
           <ul class="list-reset mt-6">
             <li class="uppercase">Gleym mér ei styrktarfélag</li>
             <li class="mt-4">Kennitala: 501013-1290</li>
-            <li>Reikningsnúmer: 111-26-501013</li>
+            <li>{{ $t('bank') }}: 111-26-501013</li>
             <li>
               <a href="mailto:gme@gleymmerei-styrktarfelag.is">
                 gme@gleymmerei-styrktarfelag.is
