@@ -5,7 +5,7 @@
         <div class="flex flex-col justify-start">
           <img
             class="block mt-4 mx-auto"
-            src="gleymmerei.png"
+            src="/gleymmerei.png"
             alt="Gleym mer ei"
             width="100"
           />

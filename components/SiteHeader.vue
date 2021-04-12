@@ -11,7 +11,7 @@
               <span class="visually-hidden">Spörkin telja</span>
               <img
                 class="block"
-                src="sporkin_telja.png"
+                src="/sporkin_telja.png"
                 width="100"
                 alt="Spörkin telja"
               />
@@ -21,7 +21,7 @@
           <nav-lang class="flex-grow" />
 
           <div>
-            <img src="gleymmerei.png" width="50" alt="Gleim mér ei" />
+            <img src="/gleymmerei.png" width="50" alt="Gleim mér ei" />
           </div>
         </div>
 
