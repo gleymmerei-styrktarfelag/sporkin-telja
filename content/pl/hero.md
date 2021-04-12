@@ -1,5 +1,3 @@
-Það er skemmtilegt og áhugavert að fá að kynnast barninu sínu á meðgöngunni.
+Poznanie dziecka będącego jeszcze w łonie jest wspaniałym i ciekawym doświadczeniem.
 
-Aðeins þú getur upplifað barnið þitt í móðurkviði eins og til dæmis að finna fyrir hreyfingum þess.
-
-Við trúum því að móðir þekki barnið sitt best
+Możesz doznać bliskości ze swoim dzieckiem w czasie ciąży poprzez skupienie się na jego aktywności w swoim ciele. Wierzymy, że to matka zna swoje dziecko najlepiej. 

@@ -1,4 +1,10 @@
 {
   "intro": "Poznaj ruchy </br> swojego dziecka",
-  "social": "Media społecznościowe"
+  "social": "Media społecznościowe",
+  "interview": "wywiad",
+  "telephone": "Numer konta",
+  "bank": "Reikningsnúmer",
+  "button": {
+    "more": "Więcej informacji"
+  }
 }

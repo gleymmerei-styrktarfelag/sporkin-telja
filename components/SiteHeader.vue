@@ -3,16 +3,20 @@
     <div class="container header-image">
       <div class="header-layout flex flex-col justify-between">
         <div class="flex items-center justify-between">
-          <h1 class="text-blue-500 text-3xl m-0">
-            <!-- TODO: translante -->
-            <span class="visually-hidden">Spörkin telja</span>
-            <img
-              class="block"
-              src="sporkin_telja.png"
-              width="100"
-              alt="Spörkin telja"
-            />
-          </h1>
+          <nuxt-link
+            class="px-1 text-black uppercase bg-base-500 hover:no-underline"
+            :to="switchLocalePath('is')"
+          >
+            <h1 class="text-blue-500 text-3xl m-0">
+              <span class="visually-hidden">Spörkin telja</span>
+              <img
+                class="block"
+                src="sporkin_telja.png"
+                width="100"
+                alt="Spörkin telja"
+              />
+            </h1>
+          </nuxt-link>
 
           <nav-lang class="flex-grow" />
 

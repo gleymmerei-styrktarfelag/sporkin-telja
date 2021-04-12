@@ -4,7 +4,6 @@
       <div class="leading-loose">
         <div class="grid md:grid-cols-2 gap-8">
           <ul class="list-reset mt-6">
-            <!-- TODO: translante -->
             <li class="uppercase">Gleym mér ei styrktarfélag</li>
             <li class="mt-4">Kennitala: 501013-1290</li>
             <li>Reikningsnúmer: 111-26-501013</li>
@@ -14,13 +13,11 @@
               </a>
             </li>
             <li class="mt-4">
-              <!-- TODO: translante -->
-              Hægt er að hafa samband í síma
+              {{ $t('telephone') }}&nbsp;
               <a href="tel:003546641297">(+354) 664-1297</a> (Árný Heiða)
             </li>
           </ul>
           <ul class="list-reset mt-6">
-            <!-- TODO: translante -->
             <li class="uppercase">{{ $t('social') }}</li>
             <li class="mt-4"><a class="link" href="#">Facebook</a></li>
             <li><a class="link" href="#">Instagram</a></li>
