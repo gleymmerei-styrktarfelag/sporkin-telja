@@ -1,7 +1,7 @@
 ---
-title: About Kicks Count
+title: O Liczenie kopnięć
 ---
 
-“Kicks Count” (Icelandic: “Spörkin telja”) is educational material about decreased fetal movements sponsored by the organization Gleym mér ei in collaboration with the Icelandic Midwifery Association, The Health Care Centers and Landspítali Hospital with support from the Ministry of Health and Directorate of Health.
+O "Liczenie kopnięć"  (islandzki: „Spörkin telja”) to materiał edukacyjny na temat zmniejszonych ruchów płodu sponsorowany przez organizację Gleym mér ei we współpracy z Islandzkim Stowarzyszeniem Położnych, Ośrodkami Opieki Zdrowotnej i Szpitalem Landspítali przy wsparciu Ministerstwa Zdrowia i Dyrekcji zdrowia. 
 
-Gley mér ei is a sponsoring organization whose purpose is to manage funding that is used to support various issues and matters associated with the loss of a child during pregnancy and during or after birth.
+Gley mér ei to organizacja sponsorująca, której celem jest zarządzanie funduszami przeznaczonymi na wsparcie różnych problemów i spraw związanych z utratą dziecka w czasie ciąży oraz podczas porodu lub po porodzie.
