@@ -2,7 +2,7 @@
   <section>
     <h2 class="visually-hidden">Viðtöl</h2>
     <article
-      v-for="(item, $index) in items"
+      v-for="(item, $index) in orderedItems"
       :key="`item-${$index}`"
       class="article grid md:grid-cols-2 gap-8"
     >
@@ -15,7 +15,7 @@
         ></iframe>
       </div>
       <div>
-        <small class="uppercase" v-if="item.subtitle">
+        <small v-if="item.subtitle" class="uppercase">
           {{ item.subtitle }}
         </small>
         <h4 class="my-2">{{ item.title }}</h4>
@@ -39,6 +39,17 @@ export default {
   props: {
     items: {
       type: Array,
+      required: true,
+    },
+  },
+  data() {
+    return {
+      videos: this.items,
+    }
+  },
+  computed: {
+    orderedItems() {
+      return [...this.videos].sort((a, b) => a.order - b.order)
     },
   },
 }
