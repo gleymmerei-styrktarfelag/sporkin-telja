@@ -1,7 +1,7 @@
 ---
-title: O spörkin telja
+title: About Kicks Count
 ---
 
-Polish text Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nobis vero illum dolorem doloremque a aut ipsam voluptates accusantium libero.
+“Kicks Count” (Icelandic: “Spörkin telja”) is educational material about decreased fetal movements sponsored by the organization Gleym mér ei in collaboration with the Icelandic Midwifery Association, The Health Care Centers and Landspítali Hospital with support from the Ministry of Health and Directorate of Health.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Gley mér ei is a sponsoring organization whose purpose is to manage funding that is used to support various issues and matters associated with the loss of a child during pregnancy and during or after birth.
