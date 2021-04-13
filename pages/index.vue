@@ -15,18 +15,18 @@
       <article class="mt-12 md:mt-24">
         <div class="grid gap-8 md:grid-cols-3">
           <h2 class="uppercase text-blue text-sm mt-2">
-            {{ intro.title }}
+            {{ body.title }}
           </h2>
           <div class="col-span-2">
-            <nuxt-content class="text-xl md:text-2xl" :document="intro" />
-            <a class="btn btn-primary mt-6" :href="intro.brochure">
+            <nuxt-content class="text-xl md:text-2xl" :document="body" />
+            <a class="btn btn-primary mt-6" :href="body.brochure">
               {{ $t('button.more') }}
             </a>
           </div>
         </div>
       </article>
 
-      <site-articles class="mt-32" :items="articles" />
+      <site-videos class="mt-32" :items="videos" />
     </div>
 
     <site-about :about="about" />
@@ -34,26 +34,26 @@
 </template>
 
 <script>
-import SiteArticles from '@/components/SiteArticles.vue'
+import SiteVideos from '@/components/SiteVideos.vue'
 import SiteAbout from '@/components/SiteAbout.vue'
 
 export default {
   components: {
-    SiteArticles,
+    SiteVideos,
     SiteAbout,
   },
 
   async asyncData(context) {
     const { $content, app } = context
-    const articles = await $content(`${app.i18n.locale}/articles`).fetch()
+    const videos = await $content(`${app.i18n.locale}/videos`).fetch()
     const about = await $content(`${app.i18n.locale}/about`).fetch()
-    const intro = await $content(`${app.i18n.locale}/intro`).fetch()
+    const body = await $content(`${app.i18n.locale}/body`).fetch()
     const hero = await $content(`${app.i18n.locale}/hero`).fetch()
 
     return {
-      intro,
+      body,
       hero,
-      articles,
+      videos,
       about,
     }
   },

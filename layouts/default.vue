@@ -215,8 +215,4 @@ hr {
 .btn-primary:hover {
   @apply text-blue-800 no-underline border-blue-800;
 }
-
-.inteview + .interview {
-  @apply mt-24;
-}
 </style>

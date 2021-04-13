@@ -2,6 +2,7 @@
 title: Hvernig hreyfir barnið sig?
 brochure: sporkintelja.pdf
 ---
+
 Frá 18-24 vikum finna konur sífellt meira fyrir hreyfingum barnsins og þær verða kröftugri upp að 32 vikum, en eftir það haldast þær svipaðar út meðgönguna.
 
 Hreyfingar barnsins eru besta merkið um að barninu þínu líði vel. Hvert barn er einstakt og því er mikilvægt fyrir þig að þekkja

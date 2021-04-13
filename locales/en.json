@@ -1,10 +1,10 @@
 {
   "intro": "Know your baby's </br> movements",
   "social": "Social media",
-  "interview": "Interview",
   "telephone": "You can contact by phone",
   "bank": "Bank account",
   "button": {
-    "more": "More information"
+    "more": "More information",
+    "youtube": "More Videos"
   }
 }

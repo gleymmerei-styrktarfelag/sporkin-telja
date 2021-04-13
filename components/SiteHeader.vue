@@ -30,8 +30,6 @@
             class="text-black leading-none font-normal mt-32"
             v-html="$t('intro')"
           />
-          <!-- TODO: translante -->
-          <!-- <button class="btn btn-primary bg-base-500">Horfa á myndskeið</button> -->
         </div>
         <div>&nbsp;</div>
       </div>

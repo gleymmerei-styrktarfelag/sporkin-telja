@@ -19,8 +19,19 @@
           </ul>
           <ul class="list-reset mt-6">
             <li class="uppercase">{{ $t('social') }}</li>
-            <li class="mt-4"><a class="link" href="#">Facebook</a></li>
+            <li class="mt-4">
+              <a class="link" href="https://www.facebook.com/sporkintelja"
+                >Facebook</a
+              >
+            </li>
             <li><a class="link" href="#">Instagram</a></li>
+            <li>
+              <a
+                class="link"
+                href="https://www.youtube.com/channel/UCJ1XyPIpRD-WovL0-OiM2Dg"
+                >YouTube</a
+              >
+            </li>
           </ul>
         </div>
       </div>

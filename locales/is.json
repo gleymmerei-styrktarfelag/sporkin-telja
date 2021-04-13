@@ -1,10 +1,10 @@
 {
   "intro": "Þekktu hreyfingar </br> barnsins þíns",
   "social": "Samfélagsmiðlar",
-  "interview": "Viðtal",
   "telephone": "Hægt er að hafa samband í síma",
   "bank": "Reikningsnúmer",
   "button": {
-    "more": "Fleiri upplýsingar"
+    "more": "Fleiri upplýsingar",
+    "youtube": "Fleiri myndbönd"
   }
 }
