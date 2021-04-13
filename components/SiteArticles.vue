@@ -15,7 +15,9 @@
         ></iframe>
       </div>
       <div>
-        <small class="uppercase">Viðtal</small>
+        <small class="uppercase">
+          {{ $t('interview') }}
+        </small>
         <h4 class="my-2">{{ item.title }}</h4>
         <nuxt-content :document="item" />
       </div>
