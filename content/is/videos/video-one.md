@@ -1,9 +1,7 @@
 ---
-title: Titill eitt
+title: Spörkin telja
 video: https://www.youtube.com/embed/J7m8FMeQHMc
 order: 10
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nobis vero illum dolorem doloremque a aut ipsam voluptates accusantium libero.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Það er skemmtilegt og áhugavert að fá að kynnast barninu sínu á meðgöngunni. Aðeins þú getur upplifað barnið þitt í móðurkviði eins og til dæmis að finna fyrir hreyfingum þess. Við trúum því að móðir þekki barnið sitt best.

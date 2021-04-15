@@ -1,8 +1,6 @@
 ---
-title: Heading One
+title: Kick Counts
 video: https://www.youtube.com/embed/xZPBanQcEDs
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nobis vero illum dolorem doloremque a aut ipsam voluptates accusantium libero.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Getting to know your baby during pregnancy is interesting and rewarding. You alone experience the movements of your baby during pregnancy. We believe that a mother should be listened to.

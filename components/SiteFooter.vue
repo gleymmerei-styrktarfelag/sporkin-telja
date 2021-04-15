@@ -8,9 +8,7 @@
             <li class="mt-4">Kennitala: 501013-1290</li>
             <li>{{ $t('bank') }}: 111-26-501013</li>
             <li>
-              <a href="mailto:gme@gleymmerei-styrktarfelag.is">
-                gme@gleymmerei-styrktarfelag.is
-              </a>
+              <a href="mailto:info@sporkintelja.is">info@sporkintelja.is </a>
             </li>
             <li class="mt-4">
               {{ $t('telephone') }}&nbsp;
@@ -20,17 +18,22 @@
           <ul class="list-reset mt-6">
             <li class="uppercase">{{ $t('social') }}</li>
             <li class="mt-4">
-              <a class="link" href="https://www.facebook.com/sporkintelja"
-                >Facebook</a
-              >
+              <a class="link" href="https://www.facebook.com/sporkintelja">
+                Facebook
+              </a>
             </li>
-            <li><a class="link" href="#">Instagram</a></li>
+            <li>
+              <a class="link" href="https://www.instagram.com/sporkintelja/">
+                Instagram
+              </a>
+            </li>
             <li>
               <a
                 class="link"
                 href="https://www.youtube.com/channel/UCJ1XyPIpRD-WovL0-OiM2Dg"
-                >YouTube</a
               >
+                YouTube
+              </a>
             </li>
           </ul>
         </div>

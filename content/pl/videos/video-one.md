@@ -1,8 +1,6 @@
 ---
-title: title in polish
+title: Liczenie kopnięć
 video: https://www.youtube.com/embed/XyxFzbWlMUM
 ---
 
-Polish text .. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nobis vero illum dolorem doloremque a aut ipsam voluptates accusantium libero.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Poznanie dziecka będącego jeszcze w łonie jest wspaniałym i ciekawym doświadczeniem. Możesz doznać bliskości ze swoim dzieckiem w czasie ciąży poprzez skupienie się na jego aktywności w swoim ciele. Wierzymy, że to matka zna swoje dziecko najlepiej.
