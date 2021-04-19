@@ -2,6 +2,6 @@
 title: O Liczenie kopnięć
 ---
 
-O "Liczenie kopnięć"  (islandzki: „Spörkin telja”) to materiał edukacyjny na temat zmniejszonych ruchów płodu sponsorowany przez organizację Gleym mér ei we współpracy z Islandzkim Stowarzyszeniem Położnych, Ośrodkami Opieki Zdrowotnej i Szpitalem Landspítali przy wsparciu Ministerstwa Zdrowia i Dyrekcji zdrowia. 
+Fundacja ,,Gleym- mér- ei,, (tłum. Nie zapomnij o mnie) przy współpracy Związków Zawodowych dla Położnych, Ośrodkiem Zdrowia i Landspitalem wraz ze wsparciem Ministerstwa Zdrowia i Naczelnej Dyrekcji Zdrowia wydała informacje ,,Spörkin telja,,( tłum. Liczenie kopnięć), dotyczące rytmu ruchów płodu i dziecka.
 
-Gley mér ei to organizacja sponsorująca, której celem jest zarządzanie funduszami przeznaczonymi na wsparcie różnych problemów i spraw związanych z utratą dziecka w czasie ciąży oraz podczas porodu lub po porodzie.
+Gleym-mér- ei jest fundacją, która zajmuje się i nadzoruje funduszem, przeznaczonym na różne dotacje, związane z utratą dziecka w czasie ciąży, porodu lub po porodzie.
